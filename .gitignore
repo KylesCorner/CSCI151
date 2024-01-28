@@ -1,7 +1,8 @@
 __pycache__/
-'Group Assignment'/
-'Unit Tests'/
+Group Assignment/
+Unit Tests/
 *.png
 *.jpg
 *.zip
+*.ods
 
