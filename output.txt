@@ -1,0 +1,272 @@
+Kyle Krstulich
+2023-03-30
+CSCI151
+output.txt
+
+
+2022 Drafts
+
+Team                    Draft round         Draft rank          Name                Position            Touchdowns          College             Games played        
+JAX                     1                    1                    Travon Walker        DE                   0                    Georgia              15                   
+JAX                     1                    27                   Devin Lloyd          LB                   0                    Utah                 17                   
+JAX                     3                    65                   Luke Fortner         G                    0                    Kentucky             17                   
+JAX                     3                    70                   Chad Muma            LB                   0                    Wyoming              16                   
+JAX                     5                    154                  Snoop Conner         RB                   1                    Mississippi          8                    
+JAX                     6                    197                  Gregory Junior       CB                   0                    Ouachita Baptist     1                    
+JAX                     7                    222                  Montaric Brown       DB                   0                    Arkansas             8                    
+DET                     1                    2                    Aidan Hutchinson     DE                   0                    Michigan             17                   
+DET                     1                    12                   Jameson Williams     WR                   1                    Alabama              6                    
+DET                     2                    46                   Josh Paschal         DE                   0                    Kentucky             10                   
+DET                     3                    97                   Kerby Joseph         DB                   0                    Illinois             17                   
+DET                     5                    177                  James Mitchell       TE                   1                    Virginia Tech        14                   
+DET                     6                    188                  Malcolm Rodriguez    LB                   0                    Oklahoma St.         16                   
+DET                     6                    217                  James Houston        LB                   0                    Jackson St.          7                    
+DET                     7                    237                  Chase Lucas          DB                   0                    Arizona St.          6                    
+HOU                     1                    3                    Derek Stingley Jr.   CB                   0                    LSU                  9                    
+HOU                     1                    15                   Kenyon Green         OL                   0                    Texas A&M            15                   
+HOU                     2                    37                   Jalen Pitre          SAF                  0                    Baylor               17                   
+HOU                     2                    44                   John Metchie         WR                   0                    Alabama              0                    
+HOU                     3                    75                   Christian Harris     LB                   0                    Alabama              12                   
+HOU                     4                    107                  Dameon Pierce        RB                   5                    Florida              13                   
+HOU                     5                    150                  Thomas Booker        DE                   0                    Stanford             10                   
+HOU                     5                    170                  Teagan Quitoriano    TE                   2                    Oregon St.           9                    
+HOU                     6                    205                  Austin Deculus       T                    0                    LSU                  5                    
+NYJ                     1                    4                    Sauce Gardner        CB                   0                    Cincinnati           17                   
+NYJ                     1                    10                   Garrett Wilson       WR                   4                    Ohio St.             17                   
+NYJ                     1                    26                   Jermaine Johnson II  LB                   0                    Florida St.          14                   
+NYJ                     2                    36                   Breece Hall          RB                   5                    Iowa St.             7                    
+NYJ                     3                    101                  Jeremy Ruckert       TE                   0                    Ohio St.             9                    
+NYJ                     4                    111                  Max Mitchell         T                    0                    Louisiana            6                    
+NYJ                     4                    117                  Micheal Clemons      DT                   0                    Texas A&M            16                   
+NYG                     1                    5                    Kayvon Thibodeaux    DE                   0                    Oregon               14                   
+NYG                     1                    7                    Evan Neal            OL                   0                    Alabama              13                   
+NYG                     2                    43                   Wan'Dale Robinson    WR                   1                    Kentucky             6                    
+NYG                     3                    67                   Joshua Ezeudu        OL                   0                    North Carolina       10                   
+NYG                     3                    81                   Cordale Flott        CB                   0                    LSU                  11                   
+NYG                     4                    112                  Daniel Bellinger     TE                   3                    San Diego St.        12                   
+NYG                     4                    114                  Dane Belton          DB                   0                    Iowa                 15                   
+NYG                     5                    146                  Micah McFadden       LB                   0                    Indiana              17                   
+NYG                     5                    147                  D.J. Davidson        DT                   0                    Arizona St.          5                    
+NYG                     5                    173                  Marcus McKethan      OL                   0                    North Carolina       0                    
+NYG                     6                    182                  Darrian Beavers      LB                   0                    Cincinnati           0                    
+CAR                     1                    6                    Ikem Ekwonu          T                    0                    North Carolina St.   17                   
+CAR                     3                    94                   Matt Corral          QB                   0                    Mississippi          0                    
+CAR                     4                    120                  Brandon Smith        LB                   0                    Penn St.             12                   
+CAR                     6                    189                  Amare Barno          DE                   0                    Virginia Tech        9                    
+CAR                     6                    199                  Cade Mays            OL                   0                    Tennessee            11                   
+CAR                     7                    242                  Kalon Barnes         CB                   0                    Baylor               2                    
+ATL                     1                    8                    Drake London         WR                   4                    USC                  17                   
+ATL                     2                    38                   Arnold Ebiketie      DE                   0                    Penn St.             16                   
+ATL                     2                    58                   Troy Andersen        LB                   0                    Montana St.          17                   
+ATL                     3                    74                   Desmond Ridder       QB                   2                    Cincinnati           4                    
+ATL                     3                    82                   DeAngelo Malone      DE                   0                    Western Kentucky     15                   
+ATL                     5                    151                  Tyler Allgeier       RB                   4                    BYU                  16                   
+ATL                     6                    190                  Justin Shaffer       OL                   0                    Georgia              0                    
+ATL                     6                    213                  John FitzPatrick     TE                   0                    Georgia              0                    
+SEA                     1                    9                    Charles Cross        OL                   0                    Mississippi St.      17                   
+SEA                     2                    40                   Boye Mafe            DE                   0                    Minnesota            17                   
+SEA                     2                    41                   Kenneth Walker III   RB                   9                    Michigan St.         15                   
+SEA                     3                    72                   Abraham Lucas        OL                   0                    Washington St.       16                   
+SEA                     4                    109                  Coby Bryant          CB                   0                    Cincinnati           17                   
+SEA                     5                    153                  Tariq Woolen         CB                   0                    Texas-San Antonio    17                   
+SEA                     5                    158                  Tyreke Smith         DE                   0                    Ohio St.             0                    
+SEA                     7                    229                  Bo Melton            WR                   0                    Rutgers              0                    
+SEA                     7                    233                  Dareke Young         WR                   0                    Lenoir-Rhyne         13                   
+NOR                     1                    11                   Chris Olave          WR                   4                    Ohio St.             15                   
+NOR                     1                    19                   Trevor Penning       T                    0                    Northern Iowa        6                    
+NOR                     2                    49                   Alontae Taylor       DB                   0                    Tennessee            13                   
+NOR                     5                    161                  D'Marco Jackson      LB                   0                    Appalachian St.      0                    
+NOR                     6                    194                  Jordan Jackson       DT                   0                    Air Force            0                    
+PHI                     1                    13                   Jordan Davis         DT                   0                    Georgia              13                   
+PHI                     2                    51                   Cam Jurgens          OL                   0                    Nebraska             17                   
+PHI                     3                    83                   Nakobe Dean          LB                   0                    Georgia              17                   
+PHI                     6                    181                  Kyron Johnson        DE                   0                    Kansas               16                   
+PHI                     6                    198                  Grant Calcaterra     TE                   0                    SMU                  15                   
+BAL                     1                    14                   Kyle Hamilton        SAF                  0                    Notre Dame           16                   
+BAL                     1                    25                   Tyler Linderbaum     OL                   0                    Iowa                 17                   
+BAL                     2                    45                   David Ojabo          LB                   0                    Michigan             2                    
+BAL                     3                    76                   Travis Jones         DT                   0                    Connecticut          15                   
+BAL                     4                    110                  Daniel Faalele       T                    0                    Minnesota            16                   
+BAL                     4                    119                  Jalyn Armour-Davis   DB                   0                    Alabama              4                    
+BAL                     4                    128                  Charlie Kolar        TE                   0                    Iowa St.             2                    
+BAL                     4                    130                  Jordan Stout         P                    0                    Penn St.             17                   
+BAL                     4                    139                  Isaiah Likely        TE                   3                    Coastal Carolina     16                   
+BAL                     4                    141                  Damarion Williams    CB                   0                    Houston              14                   
+BAL                     6                    196                  Tyler Badie          RB                   1                    Missouri             1                    
+WAS                     1                    16                   Jahan Dotson         WR                   7                    Penn St.             12                   
+WAS                     2                    47                   Phidarian Mathis     DT                   0                    Alabama              1                    
+WAS                     3                    98                   Brian Robinson Jr.   RB                   3                    Alabama              12                   
+WAS                     4                    113                  Percy Butler         SAF                  0                    Louisiana            15                   
+WAS                     5                    144                  Sam Howell           QB                   2                    North Carolina       1                    
+WAS                     5                    149                  Cole Turner          TE                   0                    Nevada               10                   
+WAS                     7                    230                  Chris Paul           OL                   0                    Tulsa                1                    
+WAS                     7                    240                  Christian Holmes     CB                   0                    Oklahoma St.         17                   
+LAC                     1                    17                   Zion Johnson         G                    0                    Boston Col.          17                   
+LAC                     3                    79                   JT Woods             SAF                  0                    Baylor               10                   
+LAC                     4                    123                  Isaiah Spiller       RB                   0                    Texas A&M            6                    
+LAC                     5                    160                  Otito Ogbonnia       DT                   0                    UCLA                 7                    
+LAC                     6                    195                  Jamaree Salyer       OL                   0                    Georgia              17                   
+LAC                     6                    214                  Ja'Sir Taylor        DB                   0                    Wake Forest          17                   
+LAC                     7                    236                  Deane Leonard        DB                   0                    Mississippi          17                   
+LAC                     7                    260                  Zander Horvath       RB                   2                    Purdue               15                   
+TEN                     1                    18                   Treylon Burks        WR                   1                    Arkansas             11                   
+TEN                     2                    35                   Roger McCreary       CB                   0                    Auburn               17                   
+TEN                     3                    69                   Nicholas Petit-Frere T                    0                    Ohio St.             16                   
+TEN                     3                    86                   Malik Willis         QB                   1                    Liberty              8                    
+TEN                     4                    131                  Hassan Haskins       RB                   0                    Michigan             15                   
+TEN                     4                    143                  Chigoziem Okonkwo    TE                   3                    Maryland             17                   
+TEN                     5                    163                  Kyle Philips         WR                   0                    UCLA                 4                    
+TEN                     6                    204                  Theo Jackson         DB                   0                    Tennessee            11                   
+TEN                     6                    219                  Chance Campbell      LB                   0                    Mississippi          0                    
+PIT                     1                    20                   Kenny Pickett        QB                   10                   Pittsburgh           13                   
+PIT                     2                    52                   George Pickens       WR                   5                    Georgia              17                   
+PIT                     3                    84                   DeMarvin Leal        DT                   0                    Texas A&M            11                   
+PIT                     4                    138                  Calvin Austin        WR                   0                    Memphis              0                    
+PIT                     6                    208                  Connor Heyward       TE                   1                    Michigan St.         17                   
+PIT                     7                    225                  Mark Robinson        LB                   0                    Mississippi          4                    
+PIT                     7                    241                  Chris Oladokun       QB                   0                    South Dakota St.     0                    
+KAN                     1                    21                   Trent McDuffie       CB                   0                    Washington           11                   
+KAN                     1                    30                   George Karlaftis III DE                   0                    Purdue               17                   
+KAN                     2                    54                   Skyy Moore           WR                   0                    Western Michigan     16                   
+KAN                     2                    62                   Bryan Cook           SAF                  0                    Cincinnati           16                   
+KAN                     3                    103                  Leo Chenal           LB                   0                    Wisconsin            17                   
+KAN                     4                    135                  Joshua Williams      CB                   0                    Fayetteville St.     17                   
+KAN                     5                    145                  Darian Kinnard       T                    0                    Kentucky             1                    
+KAN                     7                    243                  Jaylen Watson        DB                   0                    Washington St.       16                   
+KAN                     7                    251                  Isiah Pacheco        RB                   5                    Rutgers              17                   
+KAN                     7                    259                  Nazeeh Johnson       SAF                  0                    Marshall             11                   
+GNB                     1                    22                   Quay Walker          LB                   0                    Georgia              17                   
+GNB                     1                    28                   Devonte Wyatt        DT                   0                    Georgia              16                   
+GNB                     2                    34                   Christian Watson     WR                   9                    North Dakota St.     14                   
+GNB                     3                    92                   Sean Rhyan           OL                   0                    UCLA                 1                    
+GNB                     4                    132                  Romeo Doubs          WR                   3                    Nevada               13                   
+GNB                     4                    140                  Zach Tom             OL                   0                    Wake Forest          9                    
+GNB                     5                    179                  Kingsley Enagbare    DE                   0                    South Carolina       17                   
+GNB                     7                    228                  Tariq Carpenter      DB                   0                    Georgia Tech         14                   
+GNB                     7                    234                  Jonathan Ford        DT                   0                    Miami (FL)           0                    
+GNB                     7                    249                  Rasheed Walker       OL                   0                    Penn St.             1                    
+GNB                     7                    258                  Samori Toure         WR                   1                    Nebraska             11                   
+BUF                     1                    23                   Kaiir Elam           CB                   0                    Florida              13                   
+BUF                     2                    63                   James Cook           RB                   3                    Georgia              16                   
+BUF                     3                    89                   Terrel Bernard       LB                   0                    Baylor               16                   
+BUF                     5                    148                  Khalil Shakir        WR                   1                    Boise St.            14                   
+BUF                     6                    180                  Matt Araiza          P                    0                    San Diego St.        0                    
+BUF                     6                    185                  Christian Benford    DB                   0                    Villanova            9                    
+BUF                     6                    209                  Luke Tenuta          OL                   0                    Virginia Tech        3                    
+BUF                     7                    231                  Baylon Spector       LB                   0                    Clemson              6                    
+DAL                     1                    24                   Tyler Smith          OL                   0                    Tulsa                17                   
+DAL                     2                    56                   Sam Williams         DE                   0                    Mississippi          15                   
+DAL                     3                    88                   Jalen Tolbert        WR                   0                    South Alabama        8                    
+DAL                     4                    129                  Jake Ferguson        TE                   2                    Wisconsin            16                   
+DAL                     5                    155                  Matt Waletzko        OL                   0                    North Dakota         3                    
+DAL                     5                    167                  DaRon Bland          DB                   0                    Fresno St.           17                   
+DAL                     5                    176                  Damone Clark         LB                   0                    LSU                  10                   
+DAL                     5                    178                  John Ridgeway        DT                   0                    Arkansas             15                   
+DAL                     6                    193                  Devin Harper         LB                   0                    Oklahoma St.         3                    
+NWE                     1                    29                   Cole Strange         OL                   0                    Chattanooga          17                   
+NWE                     2                    50                   Tyquan Thornton      WR                   3                    Baylor               13                   
+NWE                     3                    85                   Marcus Jones         CB                   1                    Houston              15                   
+NWE                     4                    121                  Jack Jones           DB                   0                    Arizona St.          13                   
+NWE                     4                    127                  Pierre Strong        RB                   1                    South Dakota St.     15                   
+NWE                     4                    137                  Bailey Zappe         QB                   5                    Western Kentucky     4                    
+NWE                     6                    183                  Kevin Harris         RB                   1                    South Carolina       5                    
+NWE                     6                    200                  Sam Roberts          DE                   0                    NW Missouri St.      5                    
+NWE                     6                    210                  Chasen Hines         G                    0                    LSU                  0                    
+NWE                     7                    245                  Andrew Stueber       OL                   0                    Michigan             0                    
+CIN                     1                    31                   Daxton Hill          DB                   0                    Michigan             15                   
+CIN                     2                    60                   Cam Taylor-Britt     CB                   0                    Nebraska             10                   
+CIN                     3                    95                   Zachary Carter       DE                   0                    Florida              16                   
+CIN                     4                    136                  Cordell Volson       T                    0                    North Dakota St.     16                   
+CIN                     5                    166                  Tycen Anderson       SAF                  0                    Toledo               0                    
+CIN                     7                    252                  Jeff Gunter          OLB                  0                    Coastal Carolina     10                   
+MIN                     1                    32                   Lewis Cine           DB                   0                    Georgia              3                    
+MIN                     2                    42                   Andrew Booth         CB                   0                    Clemson              6                    
+MIN                     2                    59                   Ed Ingram            G                    0                    LSU                  17                   
+MIN                     3                    66                   Brian Asamoah        LB                   0                    Oklahoma             16                   
+MIN                     4                    118                  Akayleb Evans        DB                   0                    Missouri             10                   
+MIN                     5                    165                  Esezi Otomewo        DT                   0                    Minnesota            5                    
+MIN                     5                    169                  Ty Chandler          RB                   0                    North Carolina       3                    
+MIN                     6                    184                  Vederian Lowe        OL                   0                    Illinois             4                    
+MIN                     6                    191                  Jalen Nailor         WR                   1                    Michigan St.         15                   
+MIN                     7                    227                  Nick Muse            TE                   0                    South Carolina       10                   
+TAM                     2                    33                   Logan Hall           DE                   0                    Houston              17                   
+TAM                     2                    57                   Luke Goedeke         OL                   0                    Central Michigan     11                   
+TAM                     3                    91                   Rachaad White        RB                   3                    Arizona St.          17                   
+TAM                     4                    106                  Cade Otton           TE                   2                    Washington           16                   
+TAM                     4                    133                  Jake Camarda         P                    0                    Georgia              17                   
+TAM                     5                    157                  Zyon McCollum        DB                   0                    Sam Houston St.      13                   
+TAM                     6                    218                  Ko Kieft             TE                   1                    Minnesota            17                   
+TAM                     7                    248                  Andre Anthony        DE                   0                    LSU                  0                    
+CHI                     2                    39                   Kyler Gordon         CB                   0                    Washington           14                   
+CHI                     2                    48                   Jaquan Brisker       SAF                  0                    Penn St.             15                   
+CHI                     3                    71                   Velus Jones Jr.      WR                   2                    Tennessee            12                   
+CHI                     5                    168                  Braxton Jones        OL                   0                    Southern Utah        17                   
+CHI                     5                    174                  Dominique Robinson   DE                   0                    Miami (OH)           17                   
+CHI                     6                    186                  Zachary Thomas       OL                   0                    San Diego St.        1                    
+CHI                     6                    203                  Trestan Ebner        RB                   0                    Baylor               17                   
+CHI                     6                    207                  Doug Kramer          OL                   0                    Illinois             0                    
+CHI                     7                    226                  Ja'Tyre Carter       OL                   0                    Southern             3                    
+CHI                     7                    254                  Elijah Hicks         SAF                  0                    California           15                   
+CHI                     7                    255                  Trenton Gill         P                    0                    North Carolina St.   17                   
+IND                     2                    53                   Alec Pierce          WR                   2                    Cincinnati           16                   
+IND                     3                    73                   Jelani Woods         TE                   3                    Virginia             15                   
+IND                     3                    77                   Bernhard Raimann     OL                   0                    Central Michigan     16                   
+IND                     3                    96                   Nick Cross           DB                   0                    Maryland             16                   
+IND                     5                    159                  Eric Johnson         DT                   0                    Missouri State       14                   
+IND                     6                    192                  Andrew Ogletree      TE                   0                    Youngstown St.       0                    
+IND                     6                    216                  Curtis Brooks        DT                   0                    Cincinnati           0                    
+IND                     7                    239                  Rodney Thomas II     LB                   0                    Yale                 17                   
+ARI                     2                    55                   Trey McBride         TE                   1                    Colorado St.         16                   
+ARI                     3                    87                   Cameron Thomas       DE                   0                    San Diego St.        17                   
+ARI                     3                    100                  Myjai Sanders        DE                   0                    Cincinnati           13                   
+ARI                     6                    201                  Keaontay Ingram      RB                   1                    USC                  12                   
+ARI                     6                    215                  Lecitus Smith        OL                   0                    Virginia Tech        10                   
+ARI                     7                    244                  Christian Matthew    DB                   0                    Valdosta St.         14                   
+ARI                     7                    256                  Jesse Luketa         LB                   0                    Penn St.             7                    
+ARI                     7                    257                  Marquis Hayes        OL                   0                    Oklahoma             0                    
+SFO                     2                    61                   Drake Jackson        OLB                  0                    USC                  15                   
+SFO                     3                    93                   Tyrion Davis-Price   RB                   0                    LSU                  6                    
+SFO                     3                    105                  Danny Gray           WR                   0                    SMU                  13                   
+SFO                     4                    134                  Spencer Burford      OL                   0                    Texas-San Antonio    16                   
+SFO                     5                    172                  Samuel Womack        CB                   0                    Toledo               16                   
+SFO                     6                    187                  Nick Zakelj          OL                   0                    Fordham              5                    
+SFO                     6                    220                  Kalia Davis          DT                   0                    Central Florida      0                    
+SFO                     6                    221                  Tariq Castro-Fields  CB                   0                    Penn St.             2                    
+SFO                     7                    262                  Brock Purdy          QB                   14                   Iowa St.             9                    
+DEN                     2                    64                   Nik Bonitto          OLB                  0                    Oklahoma             15                   
+DEN                     3                    80                   Greg Dulcich         TE                   2                    UCLA                 10                   
+DEN                     4                    115                  Damarri Mathis       DB                   0                    Pittsburgh           16                   
+DEN                     4                    116                  Eyioma Uwazurike     DE                   0                    Iowa St.             8                    
+DEN                     5                    152                  Delarrin Turner-Yell SAF                  0                    Oklahoma             14                   
+DEN                     5                    162                  Montrell Washington  WR                   0                    Samford              15                   
+DEN                     5                    171                  Luke Wattenberg      OL                   0                    Washington           7                    
+DEN                     6                    206                  Matt Henningsen      DE                   0                    Wisconsin            17                   
+DEN                     7                    232                  Faion Hicks          CB                   0                    Wisconsin            2                    
+CLE                     3                    68                   Martin Emerson       CB                   0                    Mississippi St.      17                   
+CLE                     3                    78                   Alex Wright          DE                   0                    Ala-Birmingham       17                   
+CLE                     3                    99                   David Bell           WR                   0                    Purdue               16                   
+CLE                     4                    108                  Perrion Winfrey      DT                   0                    Oklahoma             13                   
+CLE                     4                    124                  Cade York            K                    0                    LSU                  17                   
+CLE                     5                    156                  Jerome Ford          RB                   0                    Cincinnati           13                   
+CLE                     6                    202                  Michael Woods II     WR                   0                    Oklahoma             10                   
+CLE                     7                    223                  Isaiah Thomas        DE                   0                    Oklahoma             10                   
+CLE                     7                    246                  Dawson Deaton        OL                   0                    Texas Tech           0                    
+LVR                     3                    90                   Dylan Parham         OL                   0                    Memphis              17                   
+LVR                     4                    122                  Zamir White          RB                   0                    Georgia              14                   
+LVR                     4                    126                  Neil Farrell         DT                   0                    LSU                  9                    
+LVR                     5                    175                  Matthew Butler       DT                   0                    Tennessee            6                    
+LVR                     7                    238                  Thayer Munford       OL                   0                    Ohio St.             17                   
+LVR                     7                    250                  Brittain Brown       RB                   0                    UCLA                 6                    
+MIA                     3                    102                  Channing Tindall     LB                   0                    Georgia              16                   
+MIA                     4                    125                  Erik Ezukanma        WR                   0                    Texas Tech           1                    
+MIA                     7                    224                  Cameron Goode        OLB                  0                    California           0                    
+MIA                     7                    247                  Skylar Thompson      QB                   1                    Kansas St.           7                    
+LAR                     3                    104                  Logan Bruss          OL                   0                    Wisconsin            0                    
+LAR                     4                    142                  Cobie Durant         DB                   0                    South Carolina St.   13                   
+LAR                     5                    164                  Kyren Williams       RB                   0                    Notre Dame           10                   
+LAR                     6                    211                  Quentin Lake         DB                   0                    UCLA                 9                    
+LAR                     6                    212                  Derion Kendrick      DB                   0                    Georgia              15                   
+LAR                     7                    235                  Daniel Hardy         LB                   0                    Montana St.          6                    
+LAR                     7                    253                  Russ Yeast           DB                   0                    Kansas St.           15                   
+LAR                     7                    261                  AJ Arcuri            OT                   0                    Michigan St.         8                    
+
